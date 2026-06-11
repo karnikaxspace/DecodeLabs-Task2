@@ -40,11 +40,12 @@ A supervised learning model that classifies iris flowers into three species (Set
 ---
 
 ## 📁 Project Structure
-iris_classifier/
-├── README.md
-├── requirements.txt
-├── app.py # Streamlit UI
-└── train_evaluate.py # CLI training + evaluation
+Project_2_IrisClassifier/
+
+    - app.py
+    - train_evaluate.py
+    - requirements.txt
+    - README.md
 
 
 ---
